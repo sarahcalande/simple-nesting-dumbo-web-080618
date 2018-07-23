@@ -37,7 +37,6 @@ def alan_kay_is_known_for
           :languages => ["Smalltalk", "LISP"]
         },
         :dennis_ritchie => {
-          :yukihiro_matsumoto
           :known_for => "Unix",
           :languages => ["C"]
         }
